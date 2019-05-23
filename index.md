@@ -18,7 +18,7 @@
 
 # Helix - mytestproject (snappy)
 
-It works! mytestproject is up and running.
+It works! mytestproject is up and running. Does it really?
 
 ## What's next?
 
