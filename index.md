@@ -16,7 +16,7 @@
   -->
 ![helix-logo](./helix_logo.png) <!-- this image is served from this content repository -->
 
-# Helix - mytestproject
+# Helix - mytestproject (snappy)
 
 It works! mytestproject is up and running.
 
