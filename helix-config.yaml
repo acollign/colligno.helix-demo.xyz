@@ -12,4 +12,4 @@ strains:
     code: https://github.com/acollign/colligno.helix-demo.xyz.git#master
     content: https://github.com/acollign/colligno.helix-demo.xyz.git#master
     static: https://github.com/acollign/colligno.helix-demo.xyz.git/htdocs#master
-    package: colligno/a98cf3aa72f29b1d18964903334074b161a0964a
+    package: colligno/3e90491120fbbbf6f99bc89d94b6df4a147f7677
